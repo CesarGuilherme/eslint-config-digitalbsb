@@ -1,12 +1,12 @@
 {
   "name": "@digitalbsb/eslint-config",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by digitalbsb.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "digitalbsb/eslint-config-digitalbsb"
+    "url": "CesarGuilherme/eslint-config-digitalbsb"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
